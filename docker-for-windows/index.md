@@ -345,7 +345,7 @@ To get a popup menu with application options, right-click the whale:
 
 The **Settings** dialogs provide options to allow Docker auto-start, automatically check for updates, share local drives with Docker containers, enable VPN compatibility, manage CPUs and memory Docker uses, restart Docker, or perform a factory reset.
 
-**Beta 26 and newer** include an option to switch between Windows and Linux conatiners. See [Switch between Windows and Linux containers (Beta feature)](index.md#switch-between-windows-and-linux-containers-beta-feature). This is not yet available on stable builds.
+**Beta 26 and newer** include an option to switch between Windows and Linux containers. See [Switch between Windows and Linux containers (Beta feature)](index.md#switch-between-windows-and-linux-containers-beta-feature). This is not yet available on stable builds.
 
 ![Beta 26 popup with switch for Windows or Linux containers](images/config-popup-menu-win-switch-containers.png)
 
